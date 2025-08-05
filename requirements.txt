@@ -1,0 +1,11 @@
+joblib
+matplotlib
+numpy
+pandas
+PyWavelets
+scikit-learn
+scipy
+seaborn
+spidev        
+statsmodels
+xgboost
