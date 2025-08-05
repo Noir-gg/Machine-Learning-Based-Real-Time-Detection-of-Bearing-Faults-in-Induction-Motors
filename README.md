@@ -32,11 +32,6 @@ Random Forest offered the best latency‑to‑accuracy trade‑off during live t
 ![Extra Trees CM](images/ExtraTrees_confusion_matrix.jpeg)
 ![XGBoost CM](images/XGBoost_confusion_matrix.jpeg)
 
-### ROC curves
-![Extra Trees ROC](images/ExtraTrees_ROC_curve.jpeg)
-![XGBoost ROC](images/XGBoost_ROC_curve.jpeg)
-
-*(Run `main.py` to regenerate Precision–Recall curves; place them in the `images/` folder and embed them here.)*
 
 ## Inputs and outputs
 * **Input** – `enhanced_dataset.csv` (features + label).  
@@ -50,7 +45,4 @@ python MLinference.py       # real‑time monitoring on Raspberry Pi
 ```
 
 ## Citation
-Rehaan Hussain et al., *Machine Learning Based Real‑Time Detection of Bearing Faults in Induction Motors*, IEEE IECON 2025, doi:10.1109/IECON55916.2025.xxxxxx
-
-## Licence
-MIT
+Soon to be published
